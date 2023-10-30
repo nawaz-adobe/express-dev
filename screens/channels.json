@@ -713,6 +713,23 @@
       "externalId": "/content/screens/express/79f68791-0a3f-5294-a97f-0bbf68bf95bb",
       "title": "Dry Cleaning",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/79f68791-0a3f-5294-a97f-0bbf68bf95bb.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/5d69c92c-b4b5-5328-bd53-5f19402b93e8.manifest.json",
+      "lastModified": "2023-10-30T18:42:22.554Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/5d69c92c-b4b5-5328-bd53-5f19402b93e8",
+      "title": "Clean and Green",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/5d69c92c-b4b5-5328-bd53-5f19402b93e8.html"
     }
   ],
   "metadata": {
