@@ -461,7 +461,7 @@
     },
     {
       "manifestPath": "/content/screens/express/4b5c62e0-d02d-434b-a606-96f15f861d3d.manifest.json",
-      "lastModified": "2023-11-07T18:30:59.000Z",
+      "lastModified": "2023-11-07T18:34:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -597,7 +597,7 @@
     },
     {
       "manifestPath": "/content/screens/express/6f51d47d-a2bc-59b5-81a7-52b2c3ed0bf2.manifest.json",
-      "lastModified": "2023-11-08T10:49:25.000Z",
+      "lastModified": "2023-10-24T10:00:16.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -750,7 +750,7 @@
     },
     {
       "manifestPath": "/content/screens/express/b6c13e7e-0bca-39c5-824f-025a282b7ad2.manifest.json",
-      "lastModified": "2023-11-08T14:26:18.527Z",
+      "lastModified": "2023-11-08T14:26:26.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -764,6 +764,23 @@
       "externalId": "/content/screens/express/b6c13e7e-0bca-39c5-824f-025a282b7ad2",
       "title": "Untitled - 12 October 2023 at 14.34.08",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/b6c13e7e-0bca-39c5-824f-025a282b7ad2.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/59ae9738-40f2-5294-9998-c899f3294bde.manifest.json",
+      "lastModified": "2023-11-16T09:17:41.598Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/59ae9738-40f2-5294-9998-c899f3294bde",
+      "title": "Adidas Campaign",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/59ae9738-40f2-5294-9998-c899f3294bde.html"
     }
   ],
   "metadata": {
