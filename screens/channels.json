@@ -750,7 +750,7 @@
     },
     {
       "manifestPath": "/content/screens/express/b6c13e7e-0bca-39c5-824f-025a282b7ad2.manifest.json",
-      "lastModified": "2023-11-21T11:02:50.445Z",
+      "lastModified": "2023-11-21T11:02:59.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -866,6 +866,23 @@
       "externalId": "/content/screens/express/f2a1bd7d-c9a5-52c8-a292-b7fc08492983",
       "title": "Adidas Campaign",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/f2a1bd7d-c9a5-52c8-a292-b7fc08492983.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a.manifest.json",
+      "lastModified": "2023-11-21T11:28:40.682Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a",
+      "title": "Adidas Campaign",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a.html"
     }
   ],
   "metadata": {
