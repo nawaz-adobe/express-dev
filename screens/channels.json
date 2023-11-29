@@ -614,7 +614,7 @@
     },
     {
       "manifestPath": "/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
-      "lastModified": "2023-11-29T12:40:25.869Z",
+      "lastModified": "2023-11-29T12:40:41.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -900,6 +900,23 @@
       "externalId": "/content/screens/express/fb13d9f3-a5e2-592b-82d5-08e12bced8f3",
       "title": "Adidas Campaign",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/fb13d9f3-a5e2-592b-82d5-08e12bced8f3.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/fed79ced-7c92-405e-931a-b9eca8878a15.manifest.json",
+      "lastModified": "2023-11-29T13:02:45.229Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/fed79ced-7c92-405e-931a-b9eca8878a15",
+      "title": "Headphones",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/fed79ced-7c92-405e-931a-b9eca8878a15.html"
     }
   ],
   "metadata": {
