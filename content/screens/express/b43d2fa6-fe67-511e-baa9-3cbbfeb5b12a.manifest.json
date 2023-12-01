@@ -1,5 +1,24 @@
 {
   "version": "3.0",
+  "timestamp": 1701417593464,
+  "entries": [
+    {
+      "path": "/content/screens/express/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a.html",
+      "timestamp": 1701417593464
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1696497786000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1696497786000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1701416779000
+    }
+  ],
   "contentDelivery": {
     "providers": [
       {
@@ -8,24 +27,5 @@
       }
     ],
     "defaultProvider": "franklin"
-  },
-  "timestamp": 1701328437604,
-  "entries": [
-    {
-      "path": "/content/screens/express/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a.html",
-      "timestamp": 1700632932000
-    },
-    {
-      "path": "/content/screens/assets/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a-0.jpeg",
-      "timestamp": 1700632776000
-    },
-    {
-      "path": "/content/screens/assets/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a-1.jpeg",
-      "timestamp": 1700541395000
-    },
-    {
-      "path": "/content/screens/assets/b43d2fa6-fe67-511e-baa9-3cbbfeb5b12a-2.jpeg",
-      "timestamp": 1700541395000
-    }
-  ]
+  }
 }

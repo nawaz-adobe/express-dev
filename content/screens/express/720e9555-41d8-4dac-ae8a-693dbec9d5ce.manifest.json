@@ -1,5 +1,40 @@
 {
   "version": "3.0",
+  "timestamp": 1701417590724,
+  "entries": [
+    {
+      "path": "/content/screens/express/720e9555-41d8-4dac-ae8a-693dbec9d5ce.html",
+      "timestamp": 1701417590724
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1696497786000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1696497786000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1701416779000
+    },
+    {
+      "path": "/content/screens/schedules/schedule.json",
+      "timestamp": 1701328303000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1701417401000
+    },
+    {
+      "path": "/blocks/carousel/utils.js",
+      "timestamp": 1701417401000
+    },
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1701416779000
+    }
+  ],
   "contentDelivery": {
     "providers": [
       {
@@ -8,12 +43,5 @@
       }
     ],
     "defaultProvider": "franklin"
-  },
-  "timestamp": 1701328431055,
-  "entries": [
-    {
-      "path": "/content/screens/express/720e9555-41d8-4dac-ae8a-693dbec9d5ce.html",
-      "timestamp": 1699356291000
-    }
-  ]
+  }
 }
