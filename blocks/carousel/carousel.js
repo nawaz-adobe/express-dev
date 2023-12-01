@@ -14,12 +14,12 @@ async function buildCarouselFromSheet(block) {
     let result = '';
     try {
       result = fetch(url)
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error(`request to fetch ${url} failed with status code ${response.status}`);
-            }
-            return response.text();
-          });
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`request to fetch ${url} failed with status code ${response.status}`);
+          }
+          return response.text();
+        });
       return Promise.resolve(result);
     } catch (e) {
       throw new Error(`request to fetch ${url} failed with status code with error ${e}`);
