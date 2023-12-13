@@ -53,7 +53,7 @@
     },
     {
       "manifestPath": "/content/screens/express/720e9555-41d8-4dac-ae8a-693dbec9d5ce.manifest.json",
-      "lastModified": "2023-12-12T16:47:07.000Z",
+      "lastModified": "2023-12-13T10:35:36.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -614,7 +614,7 @@
     },
     {
       "manifestPath": "/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
-      "lastModified": "2023-12-12T16:47:07.000Z",
+      "lastModified": "2023-12-13T10:35:36.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -920,7 +920,7 @@
     },
     {
       "manifestPath": "/content/screens/express/38747e9b-9a4c-5446-9611-e020361d7b46.manifest.json",
-      "lastModified": "2023-12-12T16:47:07.000Z",
+      "lastModified": "2023-12-13T10:35:36.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -937,7 +937,7 @@
     },
     {
       "manifestPath": "/content/screens/express/7c239ca1-dc71-46a0-8fc4-42adec10d808.manifest.json",
-      "lastModified": "2023-12-12T16:47:07.000Z",
+      "lastModified": "2023-12-13T10:35:36.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -951,6 +951,23 @@
       "externalId": "/content/screens/express/7c239ca1-dc71-46a0-8fc4-42adec10d808",
       "title": "Brunch Menu",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/7c239ca1-dc71-46a0-8fc4-42adec10d808.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/8daed78f-3376-5331-9912-eb4d46bac8bb.manifest.json",
+      "lastModified": "2023-12-13T10:35:36.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/8daed78f-3376-5331-9912-eb4d46bac8bb",
+      "title": "GraduationDay",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/8daed78f-3376-5331-9912-eb4d46bac8bb.html"
     }
   ],
   "metadata": {
