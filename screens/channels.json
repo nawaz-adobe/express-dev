@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
-      "lastModified": "2024-03-29T19:17:06.000Z",
+      "lastModified": "2024-04-02T09:59:34.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -16,6 +16,23 @@
       "externalId": "/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db",
       "title": "London Office Screens",
       "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/6693d89e-080a-31d7-96ed-34444fca1b60.manifest.json",
+      "lastModified": "2024-04-02T10:01:32.668Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        }
+      ],
+      "externalId": "/content/screens/express/6693d89e-080a-31d7-96ed-34444fca1b60",
+      "title": "Dog Poster",
+      "liveUrl": "https://www.org-gitesh-recognitions.aem-screens.com/content/screens/express/6693d89e-080a-31d7-96ed-34444fca1b60.html"
     }
   ],
   "metadata": {
