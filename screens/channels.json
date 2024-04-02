@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/express/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
-      "lastModified": "2024-04-02T09:59:34.000Z",
+      "lastModified": "2024-04-02T10:12:25.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -19,7 +19,7 @@
     },
     {
       "manifestPath": "/content/screens/express/6693d89e-080a-31d7-96ed-34444fca1b60.manifest.json",
-      "lastModified": "2024-04-02T10:01:32.668Z",
+      "lastModified": "2024-04-02T10:12:25.000Z",
       "hierarchy": [
         {
           "title": "screens",
