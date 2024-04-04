@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "timestamp": 1712217882000,
+  "timestamp": 1712222371000,
   "entries": [
     {
       "path": "/blocks/carousel/carousel.css",
@@ -28,7 +28,7 @@
     },
     {
       "path": "/content/screens/schedules/schedule.json",
-      "timestamp": 1712217882000
+      "timestamp": 1712222371000
     },
     {
       "path": "/scripts/lib-franklin.js",
