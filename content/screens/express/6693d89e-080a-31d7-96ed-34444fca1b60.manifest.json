@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "timestamp": 1712226950000,
+  "timestamp": 1712227174000,
   "entries": [
     {
       "path": "/blocks/carousel/carousel.css",
@@ -15,16 +15,12 @@
       "timestamp": 1701417396000
     },
     {
-      "path": "/content/screens/assets/6693d89e-080a-31d7-96ed-34444fca1b60-0.jpeg",
-      "timestamp": 1712226928000
-    },
-    {
       "path": "/content/screens/express/6693d89e-080a-31d7-96ed-34444fca1b60.html",
       "timestamp": 1712226600000
     },
     {
       "path": "/content/screens/schedules/schedule.json",
-      "timestamp": 1712226950000
+      "timestamp": 1712227174000
     },
     {
       "path": "/scripts/lib-franklin.js",
