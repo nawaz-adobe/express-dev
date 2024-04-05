@@ -65,7 +65,7 @@ const getAssets = async (host, path) => {
         for (let row = 0; row < sheetData.length; row += 1) {
           try {
             const assetDetails = sheetData[row];
-            assets.push(new URL(assetDetails.Link).pathname);
+            assets.push(assetDetails.Link);
           } catch (err) {
             console.warn(`Error while processing asset ${JSON.stringify(sheetData[row])}`, err);
           }
